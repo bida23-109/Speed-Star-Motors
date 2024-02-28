@@ -8,6 +8,10 @@ h1
  background-color: hsl(30, 40%, 25%);
  padding: 15px;
 margin: 0px;
- overflow: hidden;
+}
+.navbar a
+{
  color: white;
+ padding: 15px;
+ display: block;
 }
