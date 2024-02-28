@@ -9,12 +9,13 @@ h1
  padding: 15px;
 margin: 0px;
  overflow: hidden;
+ display: flex;
 }
 .navbar a
 {
  color: white;
  padding: 15px;
- display: block;
+ display: inline-block;
  text-align: center;
  text-decoration: none;
 }
@@ -22,4 +23,5 @@ margin: 0px;
 {
  float: left;
 }
+
  
