@@ -21,10 +21,11 @@ margin: 0px;
 .navbar li
 {
  float: left;
-}
-.navbar a.hover
-{ 
  background-color: blsack;
+}
+.logo
+{
+border-radius: 50%
 }
  
  
