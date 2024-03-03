@@ -7,9 +7,9 @@ h1
  list-style-type: none;
  color: black;
  padding: 15px;
-margin: 0px;
+margin: 15px;
  overflow: hidden;
- display: flex;
+ display: block;
 }
 .navbar a
 {
