@@ -8,12 +8,12 @@ h1
  color: black;
  padding: 15px;
 margin: 15px;
- overflow: hidden;
+ overflow: visible;
  display: block;
 }
 .navbar a
 {
- color: yellow;
+ color: green;
  padding: 20px;
  display: block;
  text-align: center;
